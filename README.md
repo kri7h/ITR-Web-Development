@@ -1,2 +1,2 @@
-# ITR-Web-Development
-Final semester project for Diploma in Computer Engineering (CO-5K). Built a full-stack web app using HTML, CSS, JS, and PHP/MySQL. Focused on solving real-world problems with clean UI, responsive design, and database integration.
+The Industrial Training Project is a key part of the final semester in the Diploma in Computer Engineering. It gives students hands-on experience by working on real-world problems or industry-based tasks. Students apply the knowledge of programming, database management, networking, web development, IoT, and software engineering to design, develop, and deploy functional projects. These projects are often done in collaboration with companies or under the mentorship of faculty. It helps improve technical, communication, teamwork, and project management skills—preparing students for industry or further studies.
+
