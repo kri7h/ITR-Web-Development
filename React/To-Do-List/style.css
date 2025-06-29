@@ -1,0 +1,92 @@
+body {
+    background-color: #f4f4f4;
+    font-family: 'Segoe UI', sans-serif;
+}
+
+.container {
+    width: 700px;
+    height: 400px;
+    background-color: #fff;
+    margin: 50px auto;
+    padding: 30px;
+    border-radius: 15px;
+    box-shadow: 10px 10px 20px red;
+    border: 3px solid red ;
+}
+
+h1 {
+    color: #0077ff;
+    margin-bottom: 20px;
+}
+
+.search {
+    display: flex;
+    justify-content: space-between;
+    gap: 10px;
+    padding: 10px 0;
+}
+
+input {
+    flex: 1;
+    padding: 15px;
+    border: 2px solid #ddd;
+    border-radius: 10px;
+    font-size: 16px;
+}
+
+button {
+    padding: 15px 25px;
+    border: none;
+    border-radius: 10px;
+    background-color: red;
+    color: #fff;
+    font-weight: bold;
+    cursor: pointer;
+    transition: 0.3s ease;
+}
+
+button:hover {
+    background-color: #c40000;
+}
+
+ul {
+    list-style-type: none;
+    padding: 0;
+    margin-top: 20px;
+}
+
+li {
+    background-color: #f9f9f9;
+    margin: 10px 0;
+    padding: 15px;
+    border-radius: 8px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    font-size: 18px;
+    transition: 0.2s ease;
+}
+
+li.checked {
+    text-decoration: none;
+    color: red;
+    background-color: yellow;
+}
+
+.remove-btn {
+    cursor: pointer;
+    color: white;
+    background-color: red;
+    padding: 5px 15px;
+    margin-left: 15px;
+    border-radius: 5px;
+    font-size: 14px;
+    transition: 0.3s;
+     text-decoration: none;
+}
+
+.remove-btn:hover {
+    background-color: darkred;
+   
+}
+
